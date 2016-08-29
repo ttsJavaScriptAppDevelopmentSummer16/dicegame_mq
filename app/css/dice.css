@@ -1,0 +1,37 @@
+body {
+  background-color: white;
+  font-family: Monaco;
+  border-style: solid;
+  padding: 10px 10px 10px 10px;
+  color: #A39081;
+  border-color: #292522;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: black;
+}
+
+ul {
+  text-align: left;
+}
+
+#greeting {
+  color: #5C323E;
+
+}
+
+#button {
+padding: 15px 15px 15px 15px;
+font-size: 16px;
+border-radius: 5px;
+color: white;
+border-color: tan;
+background-color: black;
+}
+
+#button:hover {
+  color: #C0254F;
+  font-weight: bolder;
+}
