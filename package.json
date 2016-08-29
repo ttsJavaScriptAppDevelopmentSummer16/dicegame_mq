@@ -1,0 +1,16 @@
+{
+  "name": "exercise2",
+  "version": "1.0.0",
+  "description": "exercise2 for dice game",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "mariam",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.1.0",
+    "webpack": "^1.13.2",
+    "lodash": "^3.10.1"
+  }
+}
